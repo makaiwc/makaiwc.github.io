@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title> space </title>
+<meta charset="utf-8">
+
+<script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
+<script src="https://code.jquery.com/ui/1.12.0-rc.1/jquery-ui.js"></script> 
+
+<script>
+$(document).ready();
+</script>
+
+<style>
+
+@import 'https://fonts.googleapis.com/css?family=Chathura|Wire+One|Lato:100|Exo:100|Dorsa|Open+Sans+Condensed:300|Taviraj|Droid+Sans|Open+Sans';
+
+body {
+    width: 100%;
+    font-family: Taviraj;   
+}
+
+-webkit-scrollbar { 
+    display: block;}
+
+#content {
+	position: fixed;
+	float: left;
+	top: 5%;
+	display: block;
+    padding: 5px;
+    margin: 10px;
+    overflow: scroll;
+}
+
+a:link {color: navy}
+a:visited {color: navy}
+a:hover {color: darkgray}
+	
+#locusa {
+	position: relative;
+	top: 2px;
+	}
+	
+#locusb {
+	position: relative;
+	top: 2px;
+	}
+	
+#locusc {
+	position: relative;
+	top: 2px;
+	}
+	
+#locusd {
+	position: relative;
+	top: 2px;
+	}
+
+#locuse {
+	position: relative;
+	top: 2px;
+	}
+	
+#locusf {
+	position: relative;
+	top: 2px;
+	}
+
+#locusg {
+	position: relative;
+	top: 2px;
+	}
+	
+#locush {
+	position: relative;
+	top: 2px;
+	}
+
+#locusi {
+	position: relative;
+	top: 2px;
+	}
+	
+#locusj {
+	position: relative;
+	top: 2px;
+	}
+
+#locusk {
+	position: relative;
+	top: 2px;
+	}
+	
+#locusl {
+	position: relative;
+	top: 2px;
+	}
+
+#locusm {
+	position: relative;
+	top: 2px;
+	}
+	
+#locusn {
+	position: relative;
+	top: 2px;
+	}
+
+#locuso {
+	position: relative;
+	top: 2px;
+	}
+	
+#locusp {
+	position: relative;
+	top: 2px;
+	}
+
+#locusq {
+	position: relative;
+	top: 2px;
+	}
+
+</style>
+</head>
+
+<body>
+<div id="loci">
+	<div id="content">
+	<span id="locusa"><a target="display" href="portfolioim/1.html">
+		<img src="portfolioim/1t.jpg" style="width:100%"></a></span>
+	<span id="locusb"><a target="display" href="portfolioim/2.html">
+		<img src="portfolioim/2t.jpg" style="width:100%"></a></span>
+	<span id="locusc"><a target="display" href="portfolioim/3.html">
+		<img src="portfolioim/3t.jpg" style="width:100%"></a></span>
+	<span id="locusd"><a target="display" href="portfolioim/4.html">
+		<img src="portfolioim/4t.jpg" style="width:100%"></a></span>
+	<span id="locuse"><a target="display" href="portfolioim/5">
+		<img src="portfolioim/5t.jpg" style="width:100%"></a></span>
+	<span id="locusf"><a target="display" href="portfolioim/6.html">
+		<img src="portfolioim/6t.jpg" style="width:100%"></a></span>
+	<span id="locusg"><a target="display" href="portfolioim/7.html">
+		<img src="portfolioim/7t.jpg" style="width:100%"></a></span>
+	<span id="locush"><a target="display" href="portfolioim/8.html">
+		<img src="portfolioim/8t.jpg" style="width:100%"></a></span>
+	<span id="locusi"><a target="display" href="portfolioim/9.html">
+		<img src="portfolioim/9t.jpg" style="width:100%"></a></span>
+	<span id="locusj"><a target="display" href="portfolioim/10.html">
+		<img src="portfolioim/10t.jpg" style="width:100%"></a></span>
+	<span id="locusk"><a target="display" href="portfolioim/11.html">
+		<img src="portfolioim/11t.jpg" style="width:100%"></a></span>
+	<span id="locusl"><a target="display" href="portfolioim/12.html">
+		<img src="portfolioim/12t.jpg" style="width:100%"></a></span>
+	<span id="locusm"><a target="display" href="portfolioim/13.html">
+		<img src="portfolioim/13t.jpg" style="width:100%"></a></span>
+	<span id="locusn"><a target="display" href="portfolioim/14.html">
+		<img src="portfolioim/14t.jpg" style="width:100%"></a></span>
+	<span id="locuso"><a target="display" href="portfolioim/15.html">
+		<img src="portfolioim/15t.jpg" style="width:100%"></a></span>
+	<span id="locusp"><a target="display" href="portfolioim/16.html">
+		<img src="portfolioim/16t.jpg" style="width:100%"></a></span>
+</div>	
+</div> <!-- content -->
+
+</body>
+</html>
