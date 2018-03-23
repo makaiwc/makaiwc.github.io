@@ -2,7 +2,7 @@
 <html>
 <head>
 
-<title> space </title>
+<title> portfolio </title>
 <meta charset="utf-8">
 
 <script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
@@ -20,10 +20,12 @@ body {
 }
 -webkit-scrollbar { 
     display: block;}
-#content {
+	
+#page {
 	position: fixed;
 	float: left;
-	top: 5%;
+	left: 15%;
+	top: 0%;
 	display: block;
     padding: 5px;
     margin: 10px;
@@ -33,24 +35,29 @@ a:link {color: navy}
 a:visited {color: navy}
 a:hover {color: darkgray}
 	
-#locusa {
+#navleft {
 	position: relative;
 	bottom: 2px;
+	float: left;
+	}
+#navright {
+	position: relative;
+	bottom: 2px;
+	float: left;
+	left: 805%;
 	}
 	
 </style>
 </head>
 
 <body>
-<div id="loci">
-	<div id="content">
-	<span id="locusa"><a target="display" href="makaiwc.github.io/page/02.jpg">
-		<a target="navleft" href="navl01.html">
-		<a target="navright" href="navr01.html">
-		<img src="navr.jpg" style="width:100%"></a></span>
-
-</div>	
-</div> <!-- content -->
+<div id="navigation">
+	<span id="navleft"><a href="makaiwc.github.io/portfolio/02.html">
+		<img src="navr.jpg" style="width:15%"></a></span>
+<!-- 	<span id="navright"><a href="makaiwc.github.io/portfolio/02.html">
+		<img src="navr.jpg" style="width:15%"></a></span> -->
+	</div>
+	<div id="page"> <img src="page/01.jpg" style="width:70%"> </div>
 
 </body>
 </html>
