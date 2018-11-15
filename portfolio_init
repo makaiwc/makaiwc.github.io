@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> makai wilson-charles </title>
+
+
+<style> 
+@import 'https://fonts.googleapis.com/css?family=Chathura|Wire+One|Lato:100|Exo:100|Dorsa|Open+Sans+Condensed:300';
+@import 'db.onlinewebfonts.com/c/5e29a4729adb99f4b0a3e0437cf2059d?family=ISOCT';
+
+body {
+    width: 100%;
+    height: 400px;
+    background-color: black;
+    opacity: 100;
+}
+
+body {
+    font-family: 'Open Sans Condensed', sans-serif;
+    color: gray;
+    text-align: left;
+	position: fixed;
+	right: 20px;
+}
+
+a:link {color: gray}
+a:visited {color: lightgray}
+a:hover {color: lightgray}
+
+navnails{
+	position: relative;
+	float: top;
+	left: 5%;
+	top: 0px;
+	opacity: 0.65;
+}
+
+img{
+	position: absolute;
+	float: center;
+	left: 10%;
+	top: 30px;
+	opacity: 1;
+}
+		
+p {
+	color: black;
+	position: relative;
+	font-size: 2.0vw;
+}		
+		
+/* 
+p2 {
+	color: lightgray;
+	position: fixed;
+	font-size: 0.8vw;
+	text-align: right;
+	bottom: 1%;
+	right: 1%;
+}
+ */
+	
+</style>
+</head>
+
+
+<body>
+ 
+<p><br><a href="https://makaiwc.github.io/resume.html" title="resume"> resume </a></p>
+
+<navnails>
+<img src="https://static01.nyt.com/images/2012/08/29/dining/29KITCH_SPAN/29KITCH_SPAN-master675.jpg"
+ alt="body" style="width:40px;height:40px;"/>
+ <img src="https://static01.nyt.com/images/2012/08/29/dining/29KITCH_SPAN/29KITCH_SPAN-master675.jpg"
+ alt="body" style="width:40px;height:40px;"/>
+ <img src="https://static01.nyt.com/images/2012/08/29/dining/29KITCH_SPAN/29KITCH_SPAN-master675.jpg"
+ alt="body" style="width:40px;height:40px;"/>
+ <img src="https://static01.nyt.com/images/2012/08/29/dining/29KITCH_SPAN/29KITCH_SPAN-master675.jpg"
+ alt="body" style="width:40px;height:40px;"/>
+ <img src="https://static01.nyt.com/images/2012/08/29/dining/29KITCH_SPAN/29KITCH_SPAN-master675.jpg"
+ alt="body" style="width:40px;height:40px;"/>
+ <img src="https://static01.nyt.com/images/2012/08/29/dining/29KITCH_SPAN/29KITCH_SPAN-master675.jpg"
+ alt="body" style="width:40px;height:40px;"/>
+</navnails>
+
+</body>
+</html>
