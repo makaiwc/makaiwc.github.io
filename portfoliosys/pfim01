@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> makai wilson-charles </title>
+
+
+<style> 
+@import 'https://fonts.googleapis.com/css?family=Chathura|Wire+One|Lato:100|Exo:100|Dorsa|Open+Sans+Condensed:300';
+@import 'db.onlinewebfonts.com/c/5e29a4729adb99f4b0a3e0437cf2059d?family=ISOCT';
+
+body {
+    background-color: black;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+
+::-webkit-scrollbar {
+    width: 0px;
+    background: transparent
+}
+
+navnails{
+	position: fixed;
+	float: left;
+	left: 8%;
+	opacity: 0.55;
+	display: block;
+	overflow: scroll;
+	width: 40px;
+	height: 100%;
+}
+
+
+pimage{
+	position: absolute;
+	float: center;
+	opacity: 1;
+	margin: auto;
+}
+		
+p {
+	color: rgb(200,200,200);
+	position: relative;
+	font-size: 2.0vw;
+}	
+	
+</style>
+</head>
+
+
+<body>
+
+<pimage>
+<img src="https://makaiwc.github.io/portfoliosys/pfim/airport.jpg" alt="airport" style="width:50%px;"/>
+</pimage>
+
+<p>Airport Road
+</p>
+
+
+</body>
+</html>
